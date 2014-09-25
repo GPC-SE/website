@@ -1,4 +1,6 @@
-website
-=======
+GPC - Website
+=============
 
-website of the gpc
+http://www.penspinning.de
+
+Repository for managing issues related to the website of the GPC.
